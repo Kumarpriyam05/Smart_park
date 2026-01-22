@@ -19,17 +19,16 @@ Table of Contents 🗂️
 
 Features ✨
 
-    [List the main features of your application here. Use bullet points.]
-        Example: User Authentication
-        Example: Parking Lot Management
-        Example: Slot Booking
-        Example: Payment Integration (if applicable)
+        User Authentication
+        Parking Lot Management
+        Slot Booking
+        
 
 Tech Stack 💻
 
     Frontend: React, Vite, React Router
-    Backend: Node.js, Express, MongoDB (or your database)
-    Database: MongoDB (or your database)
+    Backend: Node.js, Express
+    Database: MongoDB 
     Other: JWT for authentication, Cookie Parser, CORS
 
 Environment Setup ⚙️
